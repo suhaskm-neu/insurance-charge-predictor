@@ -1,0 +1,16 @@
+/insurePred
+/venv
+
+# Python
+__pycache__
+*.pyc
+
+# Streamlit
+*.screenshot
+
+# Jupyter
+.ipynb_checkpoints
+
+# Virtual environment
+.venv
+
