@@ -19,6 +19,10 @@ pip install -r requirements.txt
 3. Run the app: `streamlit run app.py`
 4. Open the app in your browser
 
+## Streamlit Server
+
+![Insurance Charge Predictor UI](image.png)
+
 ## Model
 
 The model used in this application is a Random Forest Regressor trained on the insurance dataset from Kaggle.
